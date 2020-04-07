@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415748812497",
+    "firebase_url": "https://sign-in-c51d3.firebaseio.com",
+    "project_id": "sign-in-c51d3",
+    "storage_bucket": "sign-in-c51d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415748812497:android:8af3e8a6ba799563aa5ff0",
+        "android_client_info": {
+          "package_name": "lirininfo.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415748812497-52il7u01hiev96mhjt1bdbluqj99mi3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApixYCPmSswEzEPTDRipVv7nI7cW1yIC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415748812497-52il7u01hiev96mhjt1bdbluqj99mi3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
